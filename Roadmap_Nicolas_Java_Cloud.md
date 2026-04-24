@@ -58,9 +58,9 @@
 - Configurar sistema de tracking.
 
 ### Tareas
-- [ ] Instalar y configurar: IntelliJ IDEA Community, JDK 21 (LTS), Maven, Postman, DBeaver, Docker Desktop.
-- [ ] Crear repositorio GitHub nuevo: `learning-journey-2026` (público). Vas a commitear aprendizajes aquí.
-- [ ] Crear documento de tracking semanal (Notion, Obsidian, o un README en el repo).
+- [✓] Instalar y configurar: IntelliJ IDEA Community, JDK 21 (LTS), Maven, Postman, DBeaver, Docker Desktop.
+- [✓] Crear repositorio GitHub nuevo: `learning-journey-2026` (público). Vas a commitear aprendizajes aquí.
+- [✓] Crear documento de tracking semanal (Notion, Obsidian, o un README en el repo).
 - [ ] Bloquear 2 horas mínimas diarias en calendario (no negociables). Ideal: 3-4 horas + weekends.
 - [ ] Unirte a comunidades: r/cscareerquestions, r/devsarg, Discord de developers colombianos (Platzi, MakeItReal, Laboratoria).
 - [ ] Seguir en LinkedIn: reclutadores tech de Bogotá (Globant, Bancolombia, Addi, Rappi, Bold).
